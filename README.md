@@ -30,7 +30,7 @@ To run this project, ensure you have the following installed:
 
 1. Clone this repository:
    ```cmd
-   git clone <repository-url>
+   git clone https://github.com/pallab-saha-git/AI-Powered-Drug-Discovery
    ```
 2. Install the required Python libraries:
    ```cmd
@@ -48,15 +48,3 @@ To run this project, ensure you have the following installed:
    ```cmd
    python drug_discovery_implementation.py
    ```
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Contact
-
-For any inquiries, please contact [Your Name] at [Your Email Address].
