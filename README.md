@@ -24,18 +24,7 @@ To run this project, ensure you have the following installed:
 
 - Python 3.8 or later
 - Jupyter Notebook
-- Required Python libraries (see below)
 
-## Installation
-
-1. Clone this repository:
-   ```cmd
-   git clone https://github.com/pallab-saha-git/AI-Powered-Drug-Discovery
-   ```
-2. Install the required Python libraries:
-   ```cmd
-   pip install -r requirements.txt
-   ```
 
 ## Usage
 
